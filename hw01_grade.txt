@@ -1,0 +1,15 @@
+95/100
+Very good.
+
+Question 3: All correct, but the velocity vectors for z_1 should be inverted.  Just a sign error for the imaginary component.
+
+Question 4: The z and (x-y) vectors form the basis vectors for the plane of potential propagations.  You can travel in any of those directions orthogonal to the electric field.
+I like the 3d plot tho, nice.
+
+Question 5A: Almost, but the Poynting vector must oscillate like cos^2(kr - omega t)
+This goes away when we calculate the intensity, which would help justify your math in Question 5C.
+
+Question 5C: You got 5B exactly right.  But you need to calculate the magnitude of the Poynting vector S by dotted it with the vector normal to the surface of the cylinder z_hat.  That will give you an extra factor of d/sqrt(d^2 + x^2), like you showed in 5B, and would fix your math for 5C.
+
+
+
